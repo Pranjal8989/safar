@@ -1,0 +1,1 @@
+const apiUrl = 'https://safarfootware.com/api/';
